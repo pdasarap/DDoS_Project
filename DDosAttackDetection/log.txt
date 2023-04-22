@@ -1,0 +1,116 @@
+Attack Detected at: 2022-05-06 15:27
+Packets collected: 562
+Attack Detected at: 2022-05-06 15:27
+Packets collected: 562
+Normal Activity Detected at: 2022-05-06 15:34
+Packets collected: 562
+ 
+Normal Activity Detected at: 2022-05-06 15:34
+Packets collected: 564
+ 
+Normal Activity Detected at: 2022-05-06 15:35
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:35
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:36
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:36
+Packets collected: 564
+ 
+Normal Activity Detected at: 2022-05-06 15:37
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:37
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:38
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:38
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:39
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:39
+Packets collected: 564
+ 
+Normal Activity Detected at: 2022-05-06 15:40
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:40
+Packets collected: 562
+ 
+Normal Activity Detected at: 2022-05-06 15:41
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:41
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:42
+Packets collected: 564
+ 
+Normal Activity Detected at: 2022-05-06 15:42
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:43
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:43
+Packets collected: 622
+ 
+Normal Activity Detected at: 2022-05-06 15:44
+Packets collected: 620
+ 
+Normal Activity Detected at: 2022-05-06 15:44
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:45
+Packets collected: 560
+ 
+Normal Activity Detected at: 2022-05-06 15:45
+Packets collected: 562
+ 
+Normal Activity Detected at: 2022-05-06 15:46
+Packets collected: 572
+ 
+Normal Activity Detected at: 2022-05-06 15:46
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:47
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:47
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:48
+Packets collected: 566
+ 
+Normal Activity Detected at: 2022-05-06 15:48
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:49
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:49
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:50
+Packets collected: 568
+ 
+Normal Activity Detected at: 2022-05-06 15:50
+Packets collected: 562
+ 
+Attack Detected at: 2022-05-06 16:04
+Packets collected: 514
+Attack Detected at: 2022-05-06 16:04
+Packets collected: 514
+Normal Activity Detected at: 2022-05-07 13:30
+Packets collected: 486
+ 
+Normal Activity Detected at: 2022-05-07 13:30
+Packets collected: 502
+ 
